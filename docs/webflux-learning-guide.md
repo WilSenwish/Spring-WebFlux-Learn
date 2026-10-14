@@ -685,7 +685,7 @@ Filter      : WebFilter, ReactiveSecurityContextHolder (响应式上下文)
 
 ## 8. 参考资料
 
-- 本项目根目录：`/Users/chenjunbing/Develop/Project/Personal/Spring-Weblux-Learn`
+- 本项目根目录：`/Users/chenjunbing/Develop/Project/Personal/Spring-WebFlux-Learn`
 - Webflux 后端入口：`accounting-webflux-backend/src/main/java/com/example/accounting/AccountingWebfluxApplication.java`
 - WebMVC 后端入口：`accounting-webmvc-backend/src/main/java/com/example/accounting/AccountingWebmvcApplication.java`
 - 共享 DTO/Entity：`accounting-common/src/main/java/com/example/accounting/`

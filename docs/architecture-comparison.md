@@ -7,7 +7,7 @@
 ### 模块结构
 
 ```
-Spring-Weblux-Learn/
+Spring-WebFlux-Learn/
 ├── accounting-webflux-backend/   # Webflux 响应式后端（端口 8080）
 ├── accounting-webflux-frontend/  # 对应前端（端口 3000，代理 8080）
 ├── accounting-webmvc-backend/    # Web MVC 阻塞式后端（端口 8081）

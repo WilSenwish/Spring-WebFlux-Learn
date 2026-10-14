@@ -207,7 +207,7 @@ server: {
 ## 六、项目结构说明
 
 ```
-Spring-Weblux-Learn/
+Spring-WebFlux-Learn/
 ├── accounting-common/                # 公共模块（ApiResponse/Entity/DTO/JwtUtil 核心等）
 │   └── src/main/java/com/example/accounting/
 │       ├── common/                   # ApiResponse、BusinessException、PageResult
@@ -308,7 +308,7 @@ A: 使用 MongoDB Shell 或 Compass 连接数据库，查看 `accounting.bill_re
 ## 九、项目目录结构
 
 ```
-Spring-Weblux-Learn/
+Spring-WebFlux-Learn/
 ├── pom.xml                             # 父 POM（统一管理 5 个子模块）
 │
 ├── accounting-common/                  # ① 公共模块（被两套后端依赖）
